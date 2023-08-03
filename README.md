@@ -1,3 +1,3 @@
 # git_test
 
-Hello Odin !
+Hello Odin ! Can't wait to end this curriculum ! :D 
